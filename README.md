@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @kandan200
-- 👀 I’m interested in full stack programming
-- 🌱 I’m currently learning front and back end tracks with the I4G/Zuri team
-- 💞️ I’m looking to collaborate on projects to tackle healthcare financing in Africa
-- 📫 You can reach me on kanuchibuzo200@gmail.com
+- exploring the role of tech in medicl diagnostics
 
 <!---
 kandan200/Intro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
